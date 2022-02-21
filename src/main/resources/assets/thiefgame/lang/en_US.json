@@ -1,5 +1,15 @@
 {
   "key.categories.thiefgame": "ThiefGame",
   "key.thiefgame.ability_use_key": "Use Ability",
-  "key.thiefgame.vote_key": "Open Vote GUI"
+  "key.thiefgame.vote_key": "Open Vote GUI",
+
+  "gui.vote.title": "Vote GUI",
+  "gui.vote.click": "VoteClick GUI",
+  "gui.vote.result": "VoteClick GUI",
+  "gui.vote.face": "VoteFace",
+  "gui.vote.skip": "VoteSkip",
+
+  "itemGroup.ThiefGame": "ThiefGame",
+
+  "item.thiefgame.votepaper": "Vote Paper"
 }
