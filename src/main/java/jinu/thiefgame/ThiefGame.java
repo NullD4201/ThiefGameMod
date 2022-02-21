@@ -56,6 +56,9 @@ public class ThiefGame {
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        // Register Commands
+        MinecraftForge.EVENT_BUS.register(RegisterCommandEvent.class);
     }
 
     private void setup(final FMLCommonSetupEvent event) {
